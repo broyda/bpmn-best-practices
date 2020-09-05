@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BPMN Recommended Practices
 
 You can use the [editor on GitHub](https://github.com/broyda/bpmn-best-practices/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
