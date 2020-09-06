@@ -1,6 +1,51 @@
 ## Welcome to BPMN Recommended Practices
 
+
+This document describes the BPMN features available on the platform.
+
 ### 1. Explicitly label start and end events
+Example:
+
+### 2. Gateways - 1 the Exclusive Gateway
+Usage:
+Example:
+
+### 3. Gateways - 2 the Parallel Gateway
+Usage:
+Example:
+
+### 4. Gateways - 3 the Inclusive Gateway
+Usage:
+Example:
+
+### 5. Gateways - 2 the Exclusive Gateway should have ateast two conditions
+Usage:
+Example:
+
+### 6. Gateways - A branching parallel gateway should have a matching merging parallel gateway.
+
+
+### 7. Gateways - A branching inclusive gateway should have a matching merging inclusive gateway.
+
+
+### 8. Gateways - An exclusive gateway should have a default branch
+
+
+### 9. Name events
+
+### 10 Name gateways using a question
+
+### 11. Avoid naming all forms of joining gateways
+
+### 12. Avoid any technical term - for example Java class name
+
+### 13. Avoid abbreviated forms
+
+
+
+### 14. Model from left to right.
+
+### 15. A few notes on ergonomics
 
 You can use the [editor on GitHub](https://github.com/broyda/bpmn-best-practices/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
